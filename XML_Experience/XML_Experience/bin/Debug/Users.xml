@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsersList>
+    <User>
+      <user_name>Murat</user_name>
+      <user_age>18</user_age>
+      <user_sex>1</user_sex>
+    </User>
+    <User>
+      <user_name>Goshan</user_name>
+      <user_age>19</user_age>
+      <user_sex>1</user_sex>
+    </User>
+  </UsersList>
+</Users>

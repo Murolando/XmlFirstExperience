@@ -1,0 +1,9 @@
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\bin\Debug\XML_Experience.exe.config
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\bin\Debug\XML_Experience.exe
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\bin\Debug\XML_Experience.pdb
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\obj\Debug\XML_Experience.csprojAssemblyReference.cache
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\obj\Debug\XML_Experience.Properties.Resources.resources
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\obj\Debug\XML_Experience.csproj.GenerateResource.cache
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\obj\Debug\XML_Experience.exe
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\obj\Debug\XML_Experience.pdb
+C:\Users\gabis\source\repos\XML_Experience\XML_Experience\obj\Debug\XML_Experience.Main_form.resources
